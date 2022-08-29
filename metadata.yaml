@@ -1,0 +1,17 @@
+composer:
+  last: Tůma
+  first: František Ignác Antonín
+title: Ave Regina
+genre: motet
+scoring: T (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15673
+    date: 1742
+    url: https://data.onb.ac.at/rec/AC14297568
+    license: public domain
+    principal: true
+    notes: parts for T solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, and maestro di cappella
+imslp:
