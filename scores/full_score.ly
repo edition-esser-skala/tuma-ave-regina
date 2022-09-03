@@ -6,7 +6,7 @@
 \book {
   \bookpart {
     \section "Ave Regina"
-    % \addTocEntry
+    \addTocEntry
     \paper { indent = 3\cm }
     \score {
       <<
@@ -81,7 +81,7 @@
         \new FiguredBass { \AveBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 80 }
+      \midi { \tempo 4 = 70 }
     }
   }
 }
